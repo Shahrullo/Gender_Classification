@@ -14,3 +14,7 @@ Thinks you have to install or installed on your working machine:
 - Jupyter Notebook
 - Torchvision 
 - PyTorch 
+
+You can install the required packages by executing the following command.
+
+`$ pip install -r requirements.txt`
