@@ -5,10 +5,12 @@ With ResNet and carefully chosen hyperparameters, we achieved `97.56%` accuracy
 
 ## Prerequisites
 
+Thinks you have to install or installed on your working machine:
+
 - Python 3.8.5
-- Numpy (win-64 v1.191.2)
-- Pandas (win-64 v1.1.3)
-- Matplotlib (win-64 v3.3.2)
+- Numpy 
+- Pandas 
+- Matplotlib 
 - Jupyter Notebook
-- Torchvision (win-64 v0.8.2)
-- PyTorch (win-64 v1.7.1)
+- Torchvision 
+- PyTorch 
