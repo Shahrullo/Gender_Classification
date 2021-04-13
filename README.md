@@ -39,3 +39,9 @@ Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google 
 
 ### Images that our model mislabeled with confident level
 ![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/mis.PNG)
+
+## Author
+- Shahrullohon Lutfillohonov. 
+### For Contact
+Twitter - [Shahrullo1](https://twitter.com/Shahrullo1)
+Linkedin - [Shahrullohon Lutfillohonov](https://www.linkedin.com/in/shahrullohon-lutfillohonov-195b84203/)
