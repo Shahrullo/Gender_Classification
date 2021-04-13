@@ -44,4 +44,5 @@ Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google 
 - Shahrullohon Lutfillohonov. 
 ### For Contact
 Twitter - [Shahrullo1](https://twitter.com/Shahrullo1)
+
 Linkedin - [Shahrullohon Lutfillohonov](https://www.linkedin.com/in/shahrullohon-lutfillohonov-195b84203/)
