@@ -46,3 +46,6 @@ Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google 
 Twitter - [Shahrullo1](https://twitter.com/Shahrullo1)
 
 Linkedin - [Shahrullohon Lutfillohonov](https://www.linkedin.com/in/shahrullohon-lutfillohonov-195b84203/)
+
+## Licence
+[MIT](https://github.com/Shahrullo/Gender_Classification/blob/main/LICENSE)
