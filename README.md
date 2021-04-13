@@ -36,3 +36,6 @@ Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google 
 
 #### Prediction Images with high accuracy
 ![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/pic.PNG)
+
+### Images that our model mislabeled with confident level
+![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/mis.PNG)
