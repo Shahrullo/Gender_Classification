@@ -26,3 +26,10 @@ You can install the required packages by executing the following command.
 `Gender Classification.ipynb`
 
 The jupyter notebook describes the whole project. You can find the whole description inside the notebook.
+
+### How to use it 
+Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google colab and run it.
+
+## Training Result
+
+
