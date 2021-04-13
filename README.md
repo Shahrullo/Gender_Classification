@@ -31,5 +31,5 @@ The jupyter notebook describes the whole project. You can find the whole descrip
 Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google colab and run it.
 
 ## Training Result
-`Got 11365/11649 with accuracy *97.56*`
+`Got 11365/11649 with accuracy **97.56%**`
 
