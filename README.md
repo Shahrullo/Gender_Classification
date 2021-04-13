@@ -33,3 +33,6 @@ Open `Gender Classification.ipynb` on a jupyter notebook environment, or Google 
 ## Training Result
 ```Got 11365/11649 with accuracy 97.56%```
 ![Confusion Matrix](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/res.PNG)
+
+#### Prediction Images with high accuracy
+![](https://github.com/Shahrullo/Gender_Classification/blob/main/imgs/pic.PNG)
