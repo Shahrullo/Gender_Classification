@@ -7,7 +7,7 @@ With ResNet and carefully chosen hyperparameters, we achieved `97.56%` accuracy
 
 Thinks you have to install or installed on your working machine:
 
-- Python 3.8.5
+- Python
 - Numpy 
 - Pandas 
 - Matplotlib 
