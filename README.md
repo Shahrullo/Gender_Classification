@@ -18,7 +18,7 @@ Thinks you have to install or installed on your working machine:
 You can install the required packages by executing the following command.
 
 `$ pip install -r requirements.txt`
-### Environment:
+### Environment
  - [Anaconda](https://www.anaconda.com/products/individual)
 
 ## Jupyter Notebook
